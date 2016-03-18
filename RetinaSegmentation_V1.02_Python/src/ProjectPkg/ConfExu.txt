@@ -1,0 +1,10 @@
+PYCAFFE_ROOT = "/home/linhuangjing/caffe-master/python"
+NET_FILE = "../../Configurations/retina_deploy.prototxt"
+TRAINED_MODEL_FILE = "../../Configurations/Exudate_iter_74000.caffemodel"
+MEAN_FILE =  "../../Configurations/Exudate_image_mean.binaryproto"
+
+
+
+
+
+

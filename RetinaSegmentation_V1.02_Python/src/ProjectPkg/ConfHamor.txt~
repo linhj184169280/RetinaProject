@@ -1,0 +1,5 @@
+PYCAFFE_ROOT = "/home/linhuangjing/caffe-master/python"
+NET_FILE = "../../Configurations/retina_deploy.prototxt"
+TRAINED_MODEL_FILE = "../../Configurations/Hamor_iter_20000.caffemodel"
+MEAN_FILE =  "../../Configurations/Hamor2_image_mean.binaryproto"
+

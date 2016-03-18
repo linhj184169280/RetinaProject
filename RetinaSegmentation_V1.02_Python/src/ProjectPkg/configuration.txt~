@@ -1,0 +1,11 @@
+PYCAFFE_ROOT = "/home/linhuangjing/caffe-master/python"
+NET_FILE = "../../Configurations/retina_deploy.prototxt"
+TRAINED_MODEL_FILE = "../../Configurations/caffenet_train_iter_74000.caffemodel"
+
+MEAN_FILE =  "../../Configurations/retina_image_mean.binaryproto"
+#NET_FILE = "/home/linhuangjing/caffe-master/examples/retina_seg/retina_deploy.prototxt"
+#TRAINED_MODEL_FILE = "/home/linhuangjing/caffe-master/examples/retina_seg/Snapshots/caffenet_train_iter_74000.caffemodel"
+#MEAN_FILE =  "/home/linhuangjing/caffe-master/examples/retina_seg/Data/retina_image_mean.binaryproto"
+
+
+
